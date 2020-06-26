@@ -1,5 +1,11 @@
 ## ansible in centos8
 
+### Setup Environment
+
+* Host OS : Windows 10 Pro
+* Virtual Program : VMware Workstation 15 Pro
+* Virtual OS : CentOS 8 ( [Download VM](0) )
+
 ### Install ansible
 * Reference : [Install ansible centos8](1)
 
@@ -45,5 +51,6 @@
 	
 	* Docker 가 실행되기까지 10분 이상 소요됨	
 	
+[0]:https://www.linuxvmimages.com/images/centos-8/
 [1]:https://linuxhint.com/install_ansible_centos8/
 [2]:https://www.techrepublic.com/article/how-to-install-the-awx-ansible-web-gui-on-centos-8/
