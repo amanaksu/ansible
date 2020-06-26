@@ -4,10 +4,10 @@
 
 * Host OS : Windows 10 Pro
 * Virtual Program : VMware Workstation 15 Pro
-* Virtual OS : CentOS 8 ( [Download VM](0) )
+* Virtual OS : CentOS 8 ( [Download VM][0] )
 
 ### Install ansible
-* Reference : [Install ansible centos8](1)
+* Reference : [Install ansible centos8][1]
 
 	```
 	$ sudo dnf makecache
@@ -18,7 +18,7 @@
 	```
 	
 ### Install AWX
-* Reference : [How to install the awx ansible web gui on centos8](2)
+* Reference : [How to install the awx ansible web gui on centos8][2]
 * Dependency
 	```
 	$ sudo dnf install git gcc gcc-c++ ansible nodejs gettext device-mapper-persistent-data lvm2 bzip2 python3-pip -y
